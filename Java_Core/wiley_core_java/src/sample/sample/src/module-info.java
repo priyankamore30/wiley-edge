@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author athar
- *
- */
-module sample {
-}
